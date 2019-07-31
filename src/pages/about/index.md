@@ -2,25 +2,23 @@
 templateKey: about-page
 title: અમારી સુવધાઓ
 ---
+## _દરેક પ્રકારના ઓનલાઇન વર્ક કરી આપવામાં આવશે_
+
+## 
+
 ### આધારકાર્ડ પહોંચ પરથી
 
 ![આધારકાર્ડ](/img/aadhaar-pvc-card-500x500.png)
-
-
 
 ### પાનકાર્ડ
 
 ![pan card](/img/pan-2-.jpg)
 
-
-
-### ઇન્કમ ટેક્સ રિટર્ન ફાઇલિંગ 
+### ઇન્કમ ટેક્સ રિટર્ન ફાઇલિંગ
 
 ### Income TAX Return (ITR) Filing
 
 ![Income TAX Return (ITR) Filing](/img/itr-1-.jpg)
-
-
 
 ### પી.એફ. (PF) નું કામ
 
